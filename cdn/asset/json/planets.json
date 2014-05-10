@@ -1,0 +1,16 @@
+{
+      "meta": {
+        "description": "list of planets in the solar system"
+      }
+    , "name": [
+        "mercury",
+        "venus",
+        "earth",
+        "mars",
+        "jupiter",
+        "saturn",
+        "uranus",
+        "neptune",
+        "pluto"
+    ]
+}

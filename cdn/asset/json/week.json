@@ -1,0 +1,36 @@
+{
+      "meta": {
+        "description": "a simple JSON containing week names"
+      }
+    , "name": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ]
+    , "weekEnds": [
+        "saturday",
+        "sunday"
+      ]
+    , "weekDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ]
+    , "shortName": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat",
+        "sun"
+      ]
+    , "weekBegin": "monday"
+    , "weekEnd": "sunday"
+}
