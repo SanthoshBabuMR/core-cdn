@@ -10,7 +10,7 @@
     "http-server": "^0.9.0"
   },
   "scripts": {
-    "http-server": "http-server ./cdn/asset/ -p 43210",
+    "http-server": "http-server ./cdn/ -p 43210",
     "start": "npm run http-server"
   }
 }
