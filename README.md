@@ -1,11 +1,10 @@
-A "Content Delivery Network" hosting asset(s)
+A "Content Delivery Network" hosting UI asset(s)
 
 **asset(s)**
-* JSON
-* Script
-* Image
+* UI libraries
+* Data
 
 **launch CDN Server**  ( [http://localhost:43210/](http://localhost:43210/) )
 ```bash
-grunt cdnServer
+npm run start
 ```
